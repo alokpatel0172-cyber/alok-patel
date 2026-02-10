@@ -16,7 +16,7 @@ Dataset Type: CSV
 Target Variable: Price
 Input Features: Engine Size, Mileage, Year, etc.
 
-🛠 Tools and Technologies
+ Tools and Technologies
 
 Python
 
