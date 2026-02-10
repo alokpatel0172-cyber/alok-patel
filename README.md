@@ -1,4 +1,5 @@
-<img width="269" height="148" alt="image" src="https://github.com/user-attachments/assets/d1c84117-c86d-46e0-97af-e6b04dce0c55" />
+![Uploading image.png…]()
+
 
 Car Price Prediction using Linear Regression Models
  Objective
