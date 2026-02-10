@@ -29,7 +29,7 @@ Seaborn
 Scikit-Learn
 
  Methodology
-🔹 1. Exploratory Data Analysis (EDA)
+ 1. Exploratory Data Analysis (EDA)
 
 Checked dataset structure
 
@@ -41,7 +41,7 @@ Plotted feature distribution graphs
 
 Created correlation heatmap
 
-🔹 2. Simple Linear Regression
+ 2. Simple Linear Regression
 
 Used Engine Size as single input feature
 
@@ -49,7 +49,7 @@ Built regression model
 
 Plotted regression line
 
-🔹 3. Multiple Linear Regression
+ 3. Multiple Linear Regression
 
 Used multiple features like engine size, mileage, year
 
@@ -57,7 +57,7 @@ Trained regression model
 
 Evaluated performance using MSE, RMSE, and R²
 
-🔹 4. Polynomial Regression
+ 4. Polynomial Regression
 
 Applied Polynomial Features (degree = 2)
 
@@ -65,7 +65,7 @@ Captured non-linear relationships
 
 Compared performance with linear regression
 
-🔹 5. Regularization Techniques
+ 5. Regularization Techniques
 Ridge Regression
 
 Reduced overfitting
@@ -77,8 +77,7 @@ Lasso Regression
 Performed feature selection
 
 Reduced some coefficients to zero
-
-🔹 6. Model Diagnostics
+ 6. Model Diagnostics
 
 Residual Plot created
 
