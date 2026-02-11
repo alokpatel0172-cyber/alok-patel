@@ -33,8 +33,7 @@ Seaborn
 Scikit-Learn
 
  Methodology
- 1. Exploratory Data Analysis (EDA)
-
+ Exploratory Data Analysis (EDA)
 Checked dataset structure
 
 Checked missing values
@@ -44,6 +43,13 @@ Generated statistical summary
 Plotted feature distribution graphs
 
 Created correlation heatmap
+
+Simple Linear Regression
+Used Engine Size as single input feature
+
+Built regression model
+
+Plotted regression line
 
  2. Simple Linear Regression
 
