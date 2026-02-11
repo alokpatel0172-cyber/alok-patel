@@ -1,5 +1,4 @@
 # Car Price Prediction
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/alokpatel0172-cyber/alok-patel.git)
 
 This repository contains a Jupyter notebook that demonstrates the process of predicting car prices using various regression models. The analysis includes data exploration, feature engineering, model building, and evaluation.
 
