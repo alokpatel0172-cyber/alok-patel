@@ -85,6 +85,7 @@ This suggests that car prices have a non-linear relationship with features like 
 3.  **Run the notebook:**
     You can run the `CarPricePrediction.ipynb` notebook in a local Jupyter environment or open it directly in Google Colab using the badge provided within the notebook. You will need to upload the `CarPrice.csv` dataset when prompted.
     
-##                 👨‍💻 Contributors
-                    **Pawan Kumar Patel 298:**
-                    **Alok Patel 271:**
+## Contributors
+
+- **Pawan Kumar Patel (298)**
+- **Alok Patel (271)**
